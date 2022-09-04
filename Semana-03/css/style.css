@@ -1,2 +1,67 @@
+ header {
+    position: fixed;
+ }
 
-    
+ header h1{
+    background-color: #373867;
+    color: #46A07B;
+    padding-top: 9px;
+    padding-left: 537px;
+    padding-bottom: 12px;
+    padding-right: 537px;
+    width: 366px;
+    height: 70px;
+    font-size: 60px;
+    }
+.radium-logo { 
+    background-color: #373867;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    float: left;
+}
+a {
+    color: #46A07B;
+    text-decoration: none;
+}
+
+a:active {
+    color: #46A07B;
+}
+
+nav {
+    background-color: #373867;
+    list-style-type: none;
+    text-align: center;
+}
+
+.nav li {
+    display: inline-block;
+    padding: 9px;
+}
+
+
+.features {
+    border-top-style: none;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+
+.Menu {
+    float: right;
+}
+
+aside {
+    position: fixed;
+    background-color: rgba(55, 56, 103, 0.1);
+    width: 253px;
+}
+
+.search {
+    padding-top: 112px;
+    padding-left: 8px;
+    width: 236px;
+    height: 30.49px;
+}
+
+
