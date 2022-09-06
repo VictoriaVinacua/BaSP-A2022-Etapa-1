@@ -6,9 +6,9 @@
     background-color: #373867;
     color: #46A07B;
     padding-top: 9px;
-    padding-left: 537px;
+    padding-left: 573px;
     padding-bottom: 12px;
-    padding-right: 537px;
+    padding-right: 573px;
     width: 366px;
     height: 70px;
     font-size: 60px;
@@ -17,6 +17,7 @@
     background-color: #373867;
     padding-top: 12px;
     padding-bottom: 12px;
+    padding-left: 26px;
     float: left;
 }
 a {
@@ -34,17 +35,14 @@ nav {
     text-align: center;
 }
 
-.nav li {
+.navButton {
     display: inline-block;
     padding: 9px;
-}
-
-
-.features {
-    border-top-style: none;
-    border-right-style: solid;
-    border-bottom-style: solid;
-    border-left-style: solid;
+    background-color: #373867;
+    border: none;
+    border-right: 1px solid #000;
+    font-size: 20px;
+    
 }
 
 .Menu {
@@ -55,13 +53,71 @@ aside {
     position: fixed;
     background-color: rgba(55, 56, 103, 0.1);
     width: 253px;
+    height: 952px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    text-align: center;
 }
 
 .search {
-    padding-top: 112px;
-    padding-left: 8px;
     width: 236px;
     height: 30.49px;
+    margin-top: 112px;
+    margin-left: 21px;
 }
 
+.buttonAside {
+    position: relative;
+    width: 142px;
+    height: 43px;
+    background-color: rgba(55, 56, 103, 0.1);
+    border: none;
+    border-bottom: 1px solid #000;
+}
+
+.buttonAside a {
+    margin: 10px;
+    font-size: 16px;
+}
+
+.asideLogo {
+    float: left;
+    margin-bottom: 268px;
+    padding-left: 95px;
+}
+
+aside p {
+    position: absolute;
+    margin-bottom: 226px;
+    
+    
+}
+
+main {
+    padding-left: 253px;
+    padding-top: 110px;
+
+}
+
+.welcomeText {
+    padding-top: 58px;
+    padding-left: 474px;
+    font-size: 49px;
+    text-transform: uppercase;
+    color: #373867;
+}
+
+.welcomeImg {
+    float: right;
+    width: 500px;
+    height: 272.86px;
+}
+
+.welcomeInfo {
+    position: relative;
+    width: 546px;
+    height: 457.4px;
+    font-size: 28.85px;
+    font-weight: 400;
+}
 
