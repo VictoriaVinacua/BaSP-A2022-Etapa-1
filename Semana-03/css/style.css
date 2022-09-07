@@ -651,3 +651,316 @@ color: #373867;
     top: 150px;
     border: 0.427652px solid #000000;
 }
+
+.ourProductsSection {
+    position: relative;
+    height: 1340px;
+    border-bottom: 1px solid #000;
+}
+
+.ourProductsSection h3 {
+    position: absolute;
+    width: 195px;
+    height: 36px;
+    left: 75px;
+    top: 95px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    color: #000;
+    text-decoration: underline;
+}
+
+.product1 img {
+    position: absolute;
+    width: 384px;
+    height: 284px;
+    left: 110px;
+    top: 173px;
+}
+
+.product2 img {
+    position: absolute;
+    width: 384px;
+    height: 284px;
+    left: 758px;
+    top: 173px;
+
+}
+
+.product3 img {
+    position: absolute;
+    width: 384px;
+    height: 284px;
+    left: 110px;
+    top: 746px;
+}
+
+.product4 img {
+    position: absolute;
+    width: 384px;
+    height: 362.62px;
+    left: 758px;
+    top: 770px;
+}
+
+.companySection {
+    position: relative;
+    height: 1184px;
+    border-bottom: 1px solid #000;
+}
+
+.companyMission h2 {
+    position: absolute;
+    width: 607px;
+    height: 89px;
+    left: 75px;
+    top: 49px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    color: #000;
+}
+
+.company1 img {
+    box-sizing: border-box;
+    position: absolute;
+    width: 477px;
+    height: 304px;
+    left: 64px;
+    top: 187px;
+}
+
+.company1 h4 {
+    position: absolute;
+    width: 639.31px;
+    height: 53px;
+    left: 559px;
+    top: 211px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: #000
+}
+
+.company1 p {
+    position: absolute;
+    width: 507px;
+    height: 75px;
+    left: 579px;
+    top: 275px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    color: #000
+}
+
+.company2 img {
+    box-sizing: border-box;
+    position: absolute;
+    width: 473px;
+    height: 304px;
+    left: 725px;
+    top: 518px;
+}
+
+.company2 h4 {
+    position: absolute;
+    width: 511px;
+    height: 31px;
+    left: 229px;
+    top: 579px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: #000
+}
+
+.company2 p {
+    position: absolute;
+    width: 540px;
+    height: 135px;
+    left: 148px;
+    top: 627px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: right;
+    color: #000;
+}
+
+.company3 img {
+    box-sizing: border-box;
+    position: absolute;
+    width: 438px;
+    height: 285px;
+    left: 76px;
+    top: 849px;
+}
+
+.company3 h4 {
+    position: absolute;
+    width: 348px;
+    height: 75px;
+    left: 541px;
+    top: 858px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: #000
+}
+
+.company3 p {
+    position: absolute;
+    width: 520px;
+    height: 168px;
+    left: 541px;
+    top: 914px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000
+}
+
+.supportSection {
+    position: relative;
+    height: 1323px;
+    border-bottom: 1px solid #000;
+}
+
+.supportTitle {
+    position: absolute;
+    width: 223px;
+    height: 46px;
+    left: 94px;
+    top: 126px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    color: #000
+}
+
+.suportImage1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 505px;
+    height: 282px;
+    left: 64px;
+    top: 256px;
+}
+
+.supporImage2 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 437px;
+    height: 288px;
+    left: 748px;
+    top: 256px;
+}
+
+.supportText1 {
+    position: absolute;
+    width: 448px;
+    height: 69px;
+    left: 92px;
+    top: 575px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 28px;
+    text-align: center;
+    color: #000000;
+}
+
+.supportText2 {
+    position: absolute;
+    width: 371px;
+    height: 47px;
+    left: 774px;
+    top: 574px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 28px;
+    text-align: center;
+    color: #000000;
+}
+
+.supportSubtitle {
+    position: absolute;
+    width: 147px;
+    height: 27px;
+    left: 94px;
+    top: 718px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 41px;
+    color: #000000;
+}
+
+.supportSection ol {
+    position: absolute;
+    width: 926px;
+    height: 184px;
+    left: 105px;
+    top: 794px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: #000000;
+}
+
+.supportSection a {
+    position: absolute;
+    width: 480px;
+    height: 116px;
+    left: 389px;
+    top: 1080px;
+    background: #98220D;
+    border-radius: 30px;
+}
+
+.supportButton {
+    position: absolute;
+    width: 480px;
+    height: 116px;
+    left: 0px;
+    top: 0px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: #FFFFFF;
+    background-color: #98220D;
+}
+
+.linkfooter {
+    position: absolute;
+    height: 74px;
+    background-color: #373867;
+}
