@@ -142,7 +142,6 @@ main {
     font-size: 28.8453px;
     line-height: 41px;
     align-items: center;
-    letter-spacing: 0.02em;
     color: #373867;
 }
 
@@ -420,4 +419,235 @@ color: #373867;
     font-weight: 400;
     font-size: 20px;
     color: #373867;
+}
+
+.inscriptionForm {
+    position: relative;
+    height: 953px;
+    border-bottom: 1px solid #000;
+}
+
+.inscriptionForm h3 {
+    position: absolute;
+    width: 178px;
+    height: 28px;
+    left: 76px;
+    top: 47px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    text-decoration: underline;
+}
+
+.nameImput {
+    box-sizing: border-box;
+    padding: 10px 12px;
+    position: absolute;
+    height: 37px;
+    left: 6.59%;
+    right: 49.4%;
+    top: 145px;
+    border: 1px solid #373867;
+    border-radius: 4px;
+}
+
+.textImput {
+    box-sizing: border-box;
+    padding: 10px 12px;
+    position: absolute;
+    height: 37px;
+    left: 52.18%;
+    right: 3.81%;
+    top: 145px;
+    border: 1px solid #373867;
+    border-radius: 4px;
+}
+
+.checkboxCopy {
+    position: absolute;
+    width: 159px;
+    height: 32px;
+    left: 95px;
+    top: 414px;
+}
+
+.checkboxIAmHuman {
+    position: absolute;
+    width: 314px;
+    height: 32px;
+    left: 801px;
+    top: 414px;   
+}
+
+.chooseContactArea {
+    position: absolute;
+    width: 1128px;
+    height: 148px;
+    left: 83px;
+    top: 202px;
+}
+
+.companyMission {
+    position: relative;
+    height: 590px;
+    border-bottom: 1px solid #000;
+    background: linear-gradient(
+      180deg,
+      rgba(222, 239, 241, 0.86) 0%,
+      rgba(229, 242, 244, 0.86) 35%,
+      rgba(203, 228, 216, 0.1118) 58%,
+      rgba(255, 255, 255, 0) 83%
+    );
+}
+
+.companyMissionTitle {
+    position: absolute;
+    width: 179px;
+    height: 30px;
+    left: 56px;
+    top: 70px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20.5273px;
+    line-height: 24px;
+    color: #000;
+}
+
+.companyMission h4 {
+    position: absolute;
+    width: 757px;
+    height: 45px;
+    left: 61px;
+    top: 106px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30.7909px;
+    line-height: 36px;
+    align-items: center;
+    text-transform: uppercase;
+    color: #373867;
+    text-decoration: underline;
+}
+
+.companyMissionSubtitle {
+    position: absolute;
+    width: 618px;
+    height: 55px;
+    left: 356px;
+    top: 225px;
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 67px;
+    text-align: center;
+    color: #000;
+}
+
+.companyMissionText {
+    position: absolute;
+    width: 1209px;
+    height: 95px;
+    left: 32px;
+    top: 305px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18.75px;
+    line-height: 26px;
+    align-items: center;
+    text-align: center;
+    color: #373867
+}
+
+.quoteTitle {
+    position: absolute;
+    width: 609px;
+    height: 43px;
+    left: 61px;
+    top: 443px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 27.3697px;
+    line-height: 32px;
+    align-items: center;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #373867;
+}
+
+.quoteText {
+    position: absolute;
+    width: 1145px;
+    height: 21px;
+    left: 96px;
+    top: 526px;
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 17.25px;
+    line-height: 20px;
+    color: #000
+}
+
+.quoteCustomer {
+    position: absolute;
+    width: 140px;
+    height: 21px;
+    left: 1043px;
+    top: 558px;
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 15.5px;
+    line-height: 18px;
+    color: #000
+}
+
+.aboutUsSection {
+    position: relative;
+    height: 477px;
+    border-bottom: 1px solid #000;
+}
+
+.aboutUsSection h4 {
+    position: absolute;
+    width: 116px;
+    height: 29px;
+    left: 61px;
+    top: 88px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #373867;
+}
+
+.aboutUsSection p {
+    position: absolute;
+    width: 769px;
+    height: 280px;
+    left: 49px;
+    top: 157px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    color: #373867;
+}
+
+.aboutUsSection img {
+    position: absolute;
+    width: 363px;
+    height: 251px;
+    left: 862px;
+    top: 150px;
+    border: 0.427652px solid #000000;
 }
