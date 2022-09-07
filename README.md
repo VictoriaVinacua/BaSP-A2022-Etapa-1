@@ -18,4 +18,8 @@ Week 02:
 On the second week, i started programming the html structure of the landing page.
 
 
+Week 03:
+On the therd week i creted the css style for the html file i created on the week-02
+
+
 Victoria Vinacua
